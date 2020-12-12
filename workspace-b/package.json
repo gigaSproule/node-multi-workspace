@@ -1,0 +1,26 @@
+{
+    "name": "workspace-b",
+    "version": "0.0.0",
+    "scripts": {
+      "start": "node dist/index",
+      "webpack": "webpack --config webpack.config.ts"
+  },
+  "dependencies": {
+      "cors": "^2.8.5",
+      "dotenv": "^8.2.0",
+      "express": "^4.17.1",
+      "helmet": "^4.2.0",
+      "ts-loader": "^8.0.11",
+      "ts-node": "^9.1.1",
+      "webpack": "^5.10.0",
+      "webpack-cli": "^4.2.0",
+      "webpack-node-externals": "^2.5.2"
+  },
+  "devDependencies": {
+      "@types/cors": "^2.8.8",
+      "@types/dotenv": "^8.2.0",
+      "@types/express": "^4.17.9",
+      "@types/helmet": "^4.0.0"
+  }
+}
+  

@@ -1,0 +1,1 @@
+export const something = () => 'Hello, workspace-a Service!';

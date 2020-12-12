@@ -1,0 +1,7 @@
+**/.env
+.idea
+*.iws
+*.ipr
+*.iml
+**/dist
+node_modules
